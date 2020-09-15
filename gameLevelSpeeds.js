@@ -1,0 +1,26 @@
+
+const GAMEBOY_FPS = 59.73;
+
+export const LEVEL_SPEEDS = {
+	0:   53 / GAMEBOY_FPS,
+	1:   49 / GAMEBOY_FPS,
+	2:   45 / GAMEBOY_FPS,
+	3:   41 / GAMEBOY_FPS,
+	4:   37 / GAMEBOY_FPS,
+	5:   33 / GAMEBOY_FPS,
+	6:   28 / GAMEBOY_FPS,
+	7:   22 / GAMEBOY_FPS,
+	8:   17 / GAMEBOY_FPS,
+	9:   11 / GAMEBOY_FPS,
+	10:  10 / GAMEBOY_FPS,
+	11:   9 / GAMEBOY_FPS,
+	12:   8 / GAMEBOY_FPS,
+	13:   7 / GAMEBOY_FPS,
+	14:   6 / GAMEBOY_FPS,
+	15:   6 / GAMEBOY_FPS,
+	16:   5 / GAMEBOY_FPS,
+	17:   5 / GAMEBOY_FPS,
+	18:   4 / GAMEBOY_FPS,
+	19:   4 / GAMEBOY_FPS,
+	20:   3 / GAMEBOY_FPS,
+};
